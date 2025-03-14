@@ -115,6 +115,9 @@ Knowing how many playlists an artist appears in, as well as which playlists have
 ![Image 3-14-25 at 11 46 AM](https://github.com/user-attachments/assets/f22c489e-7340-4a1e-bddc-69c6a52ea49e)
 
 
+Database Information: 
+
+![Image 3-14-25 at 11 50 AM](https://github.com/user-attachments/assets/11558fe1-45d3-452b-a955-20445ad6a13c)
 
 
 
