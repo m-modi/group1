@@ -86,10 +86,13 @@ This is important to managers because so many songs have been released throughou
 
 ![Image 3-14-25 at 11 44 AM (1)](https://github.com/user-attachments/assets/85226800-7379-4af6-809f-3a1cba9d961e)
 
-#6 C: Find a Song that was played less/more than X number of times with that artist information
 
-Allows us to filter through songs the general population really likes, or really dislikes. By filtering every song by the number of streams it has, we are able to gain insights on what the general population likes to listen to, what the most and least streamed songs are, see basic artist and album information
-![Image 3-13-25 at 2 57 PM](https://github.com/user-attachments/assets/a2872a58-abc7-4217-9669-39efa71fd44c)
+#6 C: Shows how many albums released by an artist each year
+
+ This is important for managers to know in order to benchmark yearly releases and streams to be able see how many albums have been released in descending order by year, allowing us to get a full understanding of how many songs and albums and pacing of album releases various artists have had compared to other artists.
+
+![Image 3-14-25 at 3 03 PM](https://github.com/user-attachments/assets/7b688622-940a-4de7-8fdb-44e5eb50b058)
+
 
 #7 S: List top artist in each genre 
 
@@ -97,11 +100,12 @@ This is important to managers because this allows them to see who is currently a
 
 ![Image 3-14-25 at 12 06 PM](https://github.com/user-attachments/assets/887339f6-1c55-495a-939c-49cca86801bc)
 
-#8 S: Return the name and release date of every album, as well as the artist id
 
-This is important to managers because this helps us list song releases chronologically. It’s also important to know so when we filter songs by popularity/stream per month or by all time, we can see how old some of the songs are, or if multiple songs in one specific album have all done really well throughout time, or if there’[s a specific artist that peaked during one year and flopped during others.
+#8 C: Find a Song that was played less/more than X number of times with that artist information
 
-![Image 3-14-25 at 11 42 AM](https://github.com/user-attachments/assets/20d31dc9-7c66-4465-821d-266b1c52c8ec)
+Allows us to filter through songs the general population really likes, or really dislikes. By filtering every song by the number of streams it has, we are able to gain insights on what the general population likes to listen to, what the most and least streamed songs are, see basic artist and album information
+![Image 3-13-25 at 2 57 PM](https://github.com/user-attachments/assets/a2872a58-abc7-4217-9669-39efa71fd44c)
+
 
 #9 S: Finding out the most streamed songs
 
