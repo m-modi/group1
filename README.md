@@ -15,7 +15,18 @@ Team Members:
 6. Palacherla, Asha
 
 Problem Description:
+
 We chose this scenario because Spotify is one of the most popular music streaming services, with millions of users worldwide. The data model will allow us to better understand how various entities like songs, albums, and artists are interconnected in the system, which is highly relevant to both businesses in the music industry and tech professionals developing similar systems. With real-world applications, the model could be extended to track metrics like streams, monthly listeners, or the popularity of songs. This could serve as the foundation for building recommendation algorithms, analyzing user engagement, or making data-driven business decisions, which is crucial for the development of platforms similar to Spotify.
+
+
+Data Model: 
+This database schema represents a structured design for a music streaming platform similar to Spotify. At its core, the artist table stores information about musicians, including their first and last names, biography, gender, and monthly listeners. Each artist is associated with a discography, which tracks their body of work and is linked through the discography_discography_id foreign key. 
+
+The album table captures details about albums, including the title, release date, and references to both the artist and their discography. Each album contains multiple songs, stored in the song table, which records song titles, durations, genres, release dates, and the number of streams. Songs are linked to albums through album_album_id.
+
+
+To track collaborations, the artist_has_song table establishes a many-to-many relationship between artists and songs, allowing for multiple artists on a single track. Similarly, playlists are managed through the playlist table, which includes details like title, save count, and creation date. The playlist_has_song table connects songs to playlists, enabling users to add multiple tracks to a playlist. Additionally, the playlist_has_artist table associates playlists with artists, making it possible to create artist-centric playlists. Overall, this schema efficiently structures relationships between artists, albums, songs, and playlists, facilitating seamless querying and management of music data in a SQL-based streaming platform.
+
 
 ERM Diagram:
 ![Image 3-13-25 at 2 43 PM](https://github.com/user-attachments/assets/c6f304c5-1533-473a-b55e-c73fd149ae54)
