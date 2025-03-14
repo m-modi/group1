@@ -3,9 +3,6 @@
 # Team Name:
 61608 
 
-Group 8
-
-
 Team Members:
 1. Peng, Kimberly
 2. Sivakumar, Srujana
