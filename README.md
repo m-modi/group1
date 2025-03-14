@@ -71,6 +71,7 @@ This allows us to see how many individual/unique playlists have a specific song 
 
 #5 Find the top three songs in the pop genre
 This information helps us determine which pop songs are currently the most streamed and can even compare them to past trends. We can also identify audience preferences and common elements among the top pop songs, providing valuable insights into what drives their popularity.
+
 ![Image 3-13-25 at 3 00 PM](https://github.com/user-attachments/assets/b6e227e4-0d9d-490f-8d49-b974a635a58e)
 
 
