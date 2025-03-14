@@ -29,6 +29,8 @@ To track collaborations, the artist_has_song table establishes a many-to-many re
 
 ![Image 3-13-25 at 2 43 PM](https://github.com/user-attachments/assets/c6f304c5-1533-473a-b55e-c73fd149ae54)
 
+## Data Dictionary: 
+
 Data Dictionary: Album
 ![Image 3-13-25 at 2 45 PM](https://github.com/user-attachments/assets/3987cdef-b566-4d22-a196-764e12408701)
 
