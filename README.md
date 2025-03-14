@@ -4,11 +4,11 @@
 61608 Group 8
 
 ## Team Members:
-1. Peng, Kimberly
-2. Sivakumar, Srujana
-4. Asgari, Neema
-5. Modi, Maleeka
-6. Palacherla, Asha
+1. Peng, Kimberly @[KimmyPenguin](https://github.com/KimmyPenguin)
+2. Sivakumar, Srujana @[sruj-siva](https://github.com/sruj-siva)
+4. Asgari, Neema @[Neemajoon](https://github.com/Neemajoon)
+5. Modi, Maleeka @[m-modi](https://github.com/m-modi)
+6. Palacherla, Asha @[ashapalacherla](https://github.com/ashapalacherla)
 
 ## Problem Description:
 
