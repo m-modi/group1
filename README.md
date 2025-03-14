@@ -56,6 +56,7 @@ Queries:
 
 #1 Finding out the most streamed songs
 With this query, we gain insights into the popularity of a specific artist or song, uncover the key elements that contribute to a song's success, and identify patterns in music consumption. Additionally, we can analyze how factors such as genre, release date, and duration influence a song’s performance.
+
 ![Image 3-13-25 at 2 55 PM](https://github.com/user-attachments/assets/6a9d01ab-f84f-46f9-8a21-4cdc7b7750fc)
 
 #2 need another
