@@ -10,7 +10,7 @@ Group 8
 Team Members:
 1. Peng, Kimberly
 2. Sivakumar, Srujana
-4. Asari, Neema
+4. Asgari, Neema
 5. Modi, Maleeka
 6. Palacherla, Asha
 
