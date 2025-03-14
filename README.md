@@ -124,7 +124,8 @@ This is important to managers because we can see (by genre specifically) that su
 
 Database Information: 
 
-![Image 3-14-25 at 11 50 AM](https://github.com/user-attachments/assets/11558fe1-45d3-452b-a955-20445ad6a13c)
+![Image 3-14-25 at 3 09 PM](https://github.com/user-attachments/assets/71772edc-9ff5-493c-bd88-9a3501928f0d)
+
 
 
 
