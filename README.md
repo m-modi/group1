@@ -54,65 +54,68 @@ Data Dictonary: playlist has artist
 
 Queries: 
 
-#1 S: Finding out the most streamed songs
-
-With this query, we gain insights into the popularity of a specific artist or song, uncover the key elements that contribute to a song's success, and identify patterns in music consumption. Additionally, we can analyze how factors such as genre, release date, and duration influence a song’s performance.
-
-![Image 3-13-25 at 2 55 PM](https://github.com/user-attachments/assets/6a9d01ab-f84f-46f9-8a21-4cdc7b7750fc)
-
-#2 S: Return the name and release date of every album, as well as the artist id
-
-This is important to managers because this helps us list song releases chronologically. It’s also important to know so when we filter songs by popularity/stream per month or by all time, we can see how old some of the songs are, or if multiple songs in one specific album have all done really well throughout time, or if there’[s a specific artist that peaked during one year and flopped during others.
-
-![Image 3-14-25 at 11 42 AM](https://github.com/user-attachments/assets/20d31dc9-7c66-4465-821d-266b1c52c8ec)
-
-
-#3 C: Find a Song that was played less/more than X number of times with that artist information
-
-Allows us to filter through songs the general population really likes, or really dislikes. By filtering every song by the number of streams it has, we are able to gain insights on what the general population likes to listen to, what the most and least streamed songs are, see basic artist and album information
-![Image 3-13-25 at 2 57 PM](https://github.com/user-attachments/assets/a2872a58-abc7-4217-9669-39efa71fd44c)
-
-#4 C: Report number of playlists containing “Blank Space”
-
-This allows us to see how many individual/unique playlists have a specific song in them and returns the answer as an independent number. This gives us important information on how many people purposefully listen to that specific song and lets us know what music profile users have in order to create things like Spotify Wrapped
-![Image 3-13-25 at 2 58 PM](https://github.com/user-attachments/assets/7126fead-c0a7-4e59-911c-ee61f9eeccb4)
-
-#5 S: Find the top three songs in the pop genre
+#1 C: Find the top three songs in the pop genre
 
 This information helps us determine which pop songs are currently the most streamed and can even compare them to past trends. We can also identify audience preferences and common elements among the top pop songs, providing valuable insights into what drives their popularity.
 
 ![Image 3-13-25 at 3 00 PM](https://github.com/user-attachments/assets/b6e227e4-0d9d-490f-8d49-b974a635a58e)
 
-#6 S: Report all songs in the ‘pop’ category that have been added to any playlist
 
-This is important to managers because we can see (by genre specifically) that suits the most number of people’s music taste. This helps with choosing top songs of any given genre, as well as makes it easier to curate genre-based playlists and Spotify Wrapped profiles to users who tend to stick to one genre/heavily prefer one genre over others.
+#2 C: Find artists that are in popular playlists & count how many they appear in
 
-![Image 3-14-25 at 11 43 AM](https://github.com/user-attachments/assets/6757fd39-5973-48c3-a93e-aca03423718d)
+Knowing how many playlists an artist appears in, as well as which playlists have the most amount of likes and listens is a great way to separate artists that appeal to listeners outside a specific genre, and general songs that a wide variety of users like to listen to regardless of their normal taste in music. Being able to find outliers like these is helpful to see what artists are able to reach listeners outside of their usual bubble.
 
-#7 C: Total streams of each genre in descending order 
+![Image 3-14-25 at 11 46 AM](https://github.com/user-attachments/assets/f22c489e-7340-4a1e-bddc-69c6a52ea49e)
+
+#3 C: Total streams of each genre in descending order 
 
 This is important for a manager to know so that we can see which songs are popular within the genre versus the songs that have made waves outside of the genre and have reached a wider population and has accumulated some merit from a greater  audience than what the genre normally sees.
 
 ![Image 3-14-25 at 11 44 AM](https://github.com/user-attachments/assets/4f847245-0425-4c2f-97f7-3acce4cb0048)
 
-#8  C: Find out if song exists in artists discography
+#4 C: Show all artists with the number of albums they released
+
+This is important to managers because of how important general artist stats are. Knowing how many albums (and subsequently, songs) an artist has released is important because this helps to see how much music an artist has made by any given time, which helps when considering streams and monthly listens.
+
+![Image 3-14-25 at 12 05 PM](https://github.com/user-attachments/assets/f10a2f2d-b85f-4538-bd4d-15c877e28288)
+
+
+#5 C: Find out if song exists in artists discography
 
 This is important to managers because so many songs have been released throughout time and knowing if a song stuck in a users head is by a specific singer they might know, or if someone recommended a song but the user forgot the artists name, this search input lets them know that whichever artist they searched in has a released song by that name.
 
 ![Image 3-14-25 at 11 44 AM (1)](https://github.com/user-attachments/assets/85226800-7379-4af6-809f-3a1cba9d961e)
 
-#9 C: Total streams of each genre in descending order 
+#6 C: Find a Song that was played less/more than X number of times with that artist information
 
-This is important for a manager to know so that we can see which songs are popular within the genre versus the songs that have made waves outside of the genre and have reached a wider population and has accumulated some merit from a greater  audience than what the genre normally sees.
+Allows us to filter through songs the general population really likes, or really dislikes. By filtering every song by the number of streams it has, we are able to gain insights on what the general population likes to listen to, what the most and least streamed songs are, see basic artist and album information
+![Image 3-13-25 at 2 57 PM](https://github.com/user-attachments/assets/a2872a58-abc7-4217-9669-39efa71fd44c)
 
-![Image 3-14-25 at 11 47 AM](https://github.com/user-attachments/assets/ed92bf57-31e1-4cca-af66-dfe4dc4958ce)
+#7 S: List top artist in each genre 
+
+This is important to managers because this allows them to see who is currently at the top of the music game. This can give insights on how well a manager’s own artists are doing, as well as the competition. This can also be used to scope out potential musicians to collaborate with that can help increase the manager’s own artists popularity.
+
+![Image 3-14-25 at 12 06 PM](https://github.com/user-attachments/assets/887339f6-1c55-495a-939c-49cca86801bc)
+
+#8 S: Return the name and release date of every album, as well as the artist id
+
+This is important to managers because this helps us list song releases chronologically. It’s also important to know so when we filter songs by popularity/stream per month or by all time, we can see how old some of the songs are, or if multiple songs in one specific album have all done really well throughout time, or if there’[s a specific artist that peaked during one year and flopped during others.
+
+![Image 3-14-25 at 11 42 AM](https://github.com/user-attachments/assets/20d31dc9-7c66-4465-821d-266b1c52c8ec)
+
+#9 S: Finding out the most streamed songs
+
+With this query, we gain insights into the popularity of a specific artist or song, uncover the key elements that contribute to a song's success, and identify patterns in music consumption. Additionally, we can analyze how factors such as genre, release date, and duration influence a song’s performance.
+
+![Image 3-13-25 at 2 55 PM](https://github.com/user-attachments/assets/6a9d01ab-f84f-46f9-8a21-4cdc7b7750fc)
+
+#10 S: Report all songs in the ‘pop’ category that have been added to any playlist
+
+This is important to managers because we can see (by genre specifically) that suits the most number of people’s music taste. This helps with choosing top songs of any given genre, as well as makes it easier to curate genre-based playlists and Spotify Wrapped profiles to users who tend to stick to one genre/heavily prefer one genre over others.
+
+![Image 3-14-25 at 11 43 AM](https://github.com/user-attachments/assets/6757fd39-5973-48c3-a93e-aca03423718d)
 
 
-#10 C: Find artists that are in popular playlists & count how many they appear in
-
-Knowing how many playlists an artist appears in, as well as which playlists have the most amount of likes and listens is a great way to separate artists that appeal to listeners outside a specific genre, and general songs that a wide variety of users like to listen to regardless of their normal taste in music. Being able to find outliers like these is helpful to see what artists are able to reach listeners outside of their usual bubble.
-
-![Image 3-14-25 at 11 46 AM](https://github.com/user-attachments/assets/f22c489e-7340-4a1e-bddc-69c6a52ea49e)
 
 
 Database Information: 
