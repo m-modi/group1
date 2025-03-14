@@ -55,6 +55,7 @@ Data Dictonary: playlist has artist
 Queries: 
 
 #1 Finding out the most streamed songs
+
 With this query, we gain insights into the popularity of a specific artist or song, uncover the key elements that contribute to a song's success, and identify patterns in music consumption. Additionally, we can analyze how factors such as genre, release date, and duration influence a song’s performance.
 
 ![Image 3-13-25 at 2 55 PM](https://github.com/user-attachments/assets/6a9d01ab-f84f-46f9-8a21-4cdc7b7750fc)
@@ -62,14 +63,17 @@ With this query, we gain insights into the popularity of a specific artist or so
 #2 need another
 
 #3 Find a Song that was played less/more than X number of times with that artist information
+
 Allows us to filter through songs the general population really likes, or really dislikes. By filtering every song by the number of streams it has, we are able to gain insights on what the general population likes to listen to, what the most and least streamed songs are, see basic artist and album information
 ![Image 3-13-25 at 2 57 PM](https://github.com/user-attachments/assets/a2872a58-abc7-4217-9669-39efa71fd44c)
 
 #4 Report number of playlists containing “Blank Space”
+
 This allows us to see how many individual/unique playlists have a specific song in them and returns the answer as an independent number. This gives us important information on how many people purposefully listen to that specific song and lets us know what music profile users have in order to create things like Spotify Wrapped
 ![Image 3-13-25 at 2 58 PM](https://github.com/user-attachments/assets/7126fead-c0a7-4e59-911c-ee61f9eeccb4)
 
 #5 Find the top three songs in the pop genre
+
 This information helps us determine which pop songs are currently the most streamed and can even compare them to past trends. We can also identify audience preferences and common elements among the top pop songs, providing valuable insights into what drives their popularity.
 
 ![Image 3-13-25 at 3 00 PM](https://github.com/user-attachments/assets/b6e227e4-0d9d-490f-8d49-b974a635a58e)
